@@ -4,7 +4,7 @@ pipeline {
    tools { maven 'Maven' }
 
    environment {
-     SERVICE_NAME = "position-simulator"
+     SERVICE_NAME = "position_simulator"
      REPOSITORY_TAG="644435390668.dkr.ecr.eu-central-1.amazonaws.com/yair-fleetman"
    }
 
