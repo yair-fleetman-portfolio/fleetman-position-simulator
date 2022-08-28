@@ -11,6 +11,7 @@
 	<name>positionsimulator</name>
 	<description>A microservice that simulates the positional reports from vehicles</description>
 
+
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
